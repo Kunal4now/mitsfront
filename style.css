@@ -1,0 +1,424 @@
+*{
+	box-sizing: border-box;
+}
+#socialmediacontainer{
+	/*background-color: coral;*/
+	width: 350px;
+	float: right;
+	margin-right: 00px;
+}
+.socialmediamembers{
+	padding-left: 15px;
+}
+
+#mitsname{
+	margin-left: 280px;
+	/*background-color: coral;*/
+}
+
+#mitslogo{
+	margin-top: -155px;
+	margin-left: 65px;
+}
+#navmenu{
+	/*background-color: coral;*/
+	height: 60px;
+	margin-top: 50px;
+}
+th{
+	padding: 30px;
+	font-size: 12px;
+	margin-top: -5px;
+    font-family: 'Open Sans', 'Myriad Pro', 'Helvetica', sans-serif;
+    font-weight: bold;
+    color: #363636;
+
+}
+table{
+	margin-left: 80px;
+}
+ .line{
+width: 75px;
+height: 47px;
+border-top: 5px solid #EFEFEF;
+border-radius: 3px;
+position: absolute;
+margin-top: -45px;
+}
+a{
+	font-family: 'Open Sans', 'Myriad Pro', 'Helvetica', sans-serif;
+    font-weight: bold;
+    color: #363636;
+}
+#directorsbox{
+	    background-color: #F9F9F9;
+	width:  1925px;
+	/*height: 1263px;*/
+	height: 100%;
+}
+.directorsmesg{
+/*	background-color: coral;*/
+	height:376px;
+	width: 292px;
+	margin-left: 90px;
+	margin-top: 30px;
+	/*position: fixed;*/
+
+}
+.directorsmesg h6{
+	font-size: 16px;
+	font-family: 'Open Sans', 'Myriad Pro', 'Helvetica', sans-serif;
+    font-weight: bold;
+    top: 30px;
+
+}
+.directorsmesg p{
+	font-size: 14px;
+	font-family: 'Open Sans', 'Myriad Pro', 'Helvetica', sans-serif;
+	line-height: 26px;	
+
+}
+.directorsmesg img{
+	padding-right: 20px;
+	padding-bottom: 5px;
+	margin-top: 10px;
+}
+.directorsbox hr{
+
+	border-top: 1px solid #eee;
+	width: 30%;
+}
+.slider{
+	margin-left: 390px;
+	margin-top: -415px;
+	
+}
+.slider img{
+	width: 555px;
+	height: 296px;
+}
+.mission{
+	margin-left: 930px;
+	margin-top: -295px;
+}
+.mission img{
+	width:262px;
+	height:294px;
+	margin-left: 30px;
+}
+.news{
+	margin-top: 80px;
+	margin-left: 250px;
+}
+.links li{
+	list-style-type: none;
+	width: 260.5px;
+	height: 46px;
+	border: 1px solid #ddd;
+	margin-left: -25px;
+	margin-bottom: 5px;
+	display: block;
+    padding: 10px 15px;
+    font-size: 16px;
+	font-family: 'Open Sans', 'Myriad Pro', 'Helvetica', sans-serif;
+    font-weight: bold;
+
+}
+.links p{
+	font-size: 20px;
+	font-family: 'Open Sans', 'Myriad Pro', 'Helvetica', sans-serif;
+	font-weight: bold;
+	position: relative;
+	margin-top: 35px;
+	margin-left: 15px;
+
+}
+.links{
+	height: 403px;
+	width: 292px;
+	/*background-color: coral;*/
+	margin-left: 50px;
+	padding-top: 10px; 
+}
+.linklistitems{
+	display: flex;
+	position: absolute;
+	margin: auto;
+	margin-top: 0px;
+
+}
+.downloads{
+	height: 357px;
+	width: 262px;
+	/*background-color: coral;*/
+	margin-left: 930px;
+	margin-top: -350px;
+}
+.downloaditems{
+	padding: 10px 15px;
+	border: 1px solid #ddd;
+	border-collapse: collapse;
+	width: 260px;
+	height: 75px;
+	margin-bottom: 5px;
+	background-color: white;
+	cursor: pointer;
+}
+.downloaditems img{
+	height: 56px;
+	width: 230px;
+	padding-top: 5px;
+}
+.downloads p{
+	font-size: 20px;
+	font-family: 'Open Sans', 'Myriad Pro', 'Helvetica', sans-serif;
+	font-weight: bold;
+}
+.linkitems li{
+	padding-left: 10px;
+	height: 42px;
+	width: 262px;
+}
+.nptel{
+	height: 280px;
+	width: 329px;
+	/*background-color: coral;*/
+	margin-left: 863px;
+	margin-top: 00px;
+
+
+}
+.nptel p{
+	font-family: 'Open Sans', 'Myriad Pro', 'Helvetica', sans-serif;
+	font-size: 13px;
+	padding: 10px;
+}
+.ranking,.qlinks li{
+	font-size: 15px;
+	font-family: 'Open Sans', 'Myriad Pro', 'Helvetica', sans-serif;
+	margin-left: 10px;
+	margin-top: 20px;
+}
+.nptel img{
+	height: 90px;
+	width: 90px;
+	margin-top: 40px;
+	float: left;
+}
+#npteltext{
+	font-size: 12px;
+	line-height: 24px;
+	font-family: 'Open Sans', 'Myriad Pro', 'Helvetica', sans-serif;
+	margin-left: 80px;
+
+}
+.quicklinks{
+	height: 270px;
+	width: 329px;
+	/*background-color: coral;*/
+	margin-left: 833px;
+	margin-top: 30PX;
+}
+#quicklinkstag{
+	margin-left: 833px;
+	font-family: 'Open Sans', 'Myriad Pro', 'Helvetica', sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+
+.borderbottom
+{
+	border-bottom: 1px solid #ddd;
+}
+.logoframe{
+	border: none;
+	/*background-color: coral;*/
+	margin-top: -390px;
+	margin-left: 360px;
+	position: absolute;
+}
+
+.logonav ul{
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+.logonav li a{
+	display: inline-block;
+}
+.logonav a{
+	float: left;
+	display: block;
+	background-color: #F9f9f9;
+	width: 153px;
+	height: 50px;
+	padding: 10px;
+	color: #167ac6;
+	text-align: center;
+	position: relative;
+	text-decoration: none;
+	
+}
+.logonav{
+/*	background-color: coral;*/
+	width: 560px;
+	height: 30px;
+
+}
+.logonav li a:hover{
+	display: inline-block;
+	background-color: #ccc;
+}
+
+.logonav p{
+	font-family: 'Open Sans', 'Myriad Pro', 'Helvetica', sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	padding: 10px;
+}
+.highlights{
+	margin-top: -30px;
+	position: absolute;
+
+}
+.highlightsnav{
+	width: 800px;
+	height: 50px;
+	position: absolute;
+	margin-left: 50px;
+	/*background-color: aqua;*/
+}
+.highlightsnav ul{
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+.highlightsnav li a{
+	display: inline-block;
+}
+.highlightsnav a{
+	float: left;
+  display: block;
+  /*background-color: #dddddd;*/
+  background-color: #F9F9F9;
+  color: #167AC6;
+  width: 155px;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  position: relative;
+}
+.framehighlights{
+	margin-top: 70px;
+	margin-left: 50px;
+	position: absolute;
+}
+.highlights p{
+	font-size: 20px;
+	font-family: 'Open Sans', 'Myriad Pro', 'Helvetica', sans-serif;
+	font-weight: bold;
+	position: relative;
+	margin-top: 35px;
+	margin-left: 60px;
+}
+.highlightsnav li a:hover{
+	display: inline-block;
+	background-color: #ccc;
+}
+.finalimage{
+	/*height: 359px;*/
+	position: relative;
+	/*background-color: coral;*/
+	background-image: url(https://mitsgwalior.in/img/footer-bg.png);
+}
+.transparent{
+    background-color: rgba(255, 255, 255, 0.314);
+	height: 379px;
+	width: 1170px;
+	margin-left: 38px;
+
+}
+.tender{
+	width: 340px;
+	margin-top: 7px;
+	position: absolute;
+	margin-left: 40px;
+	/*background-color: coral;*/
+}
+.tender li,.mentalhealth li{
+
+	margin-bottom: 20px;
+}
+.tender a,.mentalhealth a{
+	font-size: 13px;
+	font-family: 'Open Sans', 'Myriad Pro', 'Helvetica', sans-serif;
+	color: black;
+	font-weight: 600px;
+	line-height: 20px;
+
+}
+.mentalhealth{
+	position: absolute;
+	margin-top: 35px;
+	margin-left: 470px;
+}
+.imagegallary{
+	height: 380px;
+	width: 397px;
+	/*background-color: coral;*/
+	float: right;
+	/*padding-left:5px;*/
+}
+.imagegallary img{
+	height: 63px;
+	width: 90px;
+	margin-bottom: 25px;
+
+}
+.images{
+	position: absolute;
+	margin-top: 40px;
+}
+.activities{
+	position: absolute;
+	/*background-color: coral;*/
+	width: 800px;
+	margin-top: -300px;
+	margin-left: 56px;
+}
+.activities ul{
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+.activities li a{
+	display: inline-block;
+}
+.activities a{
+	float: left;
+  display: block;
+  /*background-color: #dddddd;*/
+  background-color: #F9F9F9;
+  color: #167AC6;
+  width: 187px;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  position: relative;
+}
+.actnavs{
+	width: 800px;
+}
+.actnavs li a:hover{
+	display: inline-block;
+	background-color: #ccc;
+}
+.activities p{
+	font-size: 20px;
+	font-family: 'Open Sans', 'Myriad Pro', 'Helvetica', sans-serif;
+	font-weight: bold;
+	position: relative;
+
+	
+}
